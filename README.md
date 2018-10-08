@@ -13,7 +13,7 @@ application that uses Integrant.
 
 To install, add the following to your project `:dependencies`:
 
-    [duct/scheduler.simple "0.1.0-SNAPSHOT"]
+    [duct/scheduler.simple "0.1.0"]
 
 ## Usage
 
