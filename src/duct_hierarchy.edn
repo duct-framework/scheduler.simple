@@ -1,0 +1,1 @@
+{:duct.scheduler/simple [:duct/daemon]}
