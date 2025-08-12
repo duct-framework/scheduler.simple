@@ -1,6 +1,4 @@
-# Duct scheduler.simple
-
-[![Build Status](https://travis-ci.org/duct-framework/scheduler.simple.svg?branch=master)](https://travis-ci.org/duct-framework/scheduler.simple)
+# Duct scheduler.simple [![Build Status](https://github.com/duct-framework/scheduler.simple/actions/workflows/test.yml/badge.svg)](https://github.com/duct-framework/scheduler.simple/actions/workflows/test.yml)
 
 [Integrant][] methods for running functions periodically in a thread
 pool. Part of the [Duct][] framework, but can be used in any
