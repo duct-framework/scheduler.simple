@@ -11,11 +11,11 @@ application that uses Integrant.
 
 Add the following dependency to your deps.edn file:
 
-    duct/scheduler.simple {:mvn/version "0.1.0"}
+    org.duct-framework/scheduler.simple {:mvn/version "0.1.0"}
 
 Or to your Leiningen project file:
 
-    [duct/server.http.jetty "0.1.0"]
+    [org.duct-framework/server.http.jetty "0.1.0"]
 
 ## Usage
 

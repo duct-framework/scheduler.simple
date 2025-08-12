@@ -1,4 +1,4 @@
-(defproject duct/scheduler.simple "0.1.0"
+(defproject org.duct-framework/scheduler.simple "0.1.0"
   :description "A simple scheduler for Integrant"
   :url "https://github.com/duct-framework/scheduler.simple"
   :license {:name "Eclipse Public License"
