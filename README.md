@@ -9,9 +9,13 @@ application that uses Integrant.
 
 ## Installation
 
-To install, add the following to your project `:dependencies`:
+Add the following dependency to your deps.edn file:
 
-    [duct/scheduler.simple "0.1.0"]
+    duct/scheduler.simple {:mvn/version "0.1.0"}
+
+Or to your Leiningen project file:
+
+    [duct/server.http.jetty "0.1.0"]
 
 ## Usage
 
