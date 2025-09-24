@@ -1,0 +1,12 @@
+{:duct.scheduler/simple
+ {:doc
+  "A simple scheduler that runs jobs (zero-argument functions) at
+  regular intervals.
+
+  Takes the following options:
+  - `:jobs` - a collection of maps defining the jobs to run
+
+  A job map has three keys:
+  - `:delay` (optional) - how long in seconds to delay before the first job
+  - `:interval` - how long in seconds between the start of each job
+  - `:run` - a zero-argument function run at each interval"}}
